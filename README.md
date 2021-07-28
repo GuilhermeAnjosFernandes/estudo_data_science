@@ -2,7 +2,7 @@
 Jornada no estudo de Data Science
 
 <p align="center">
-  <img src="https://br.freepik.com/vetores/abstrato" >
+  <img src="banner.png">
 </p>
 
 # Guilherme dos Anjos Fernandes
