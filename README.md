@@ -15,3 +15,5 @@ Iniciando os estudos nesse universo com os ***dados***, verifiquei que não é s
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/guilherme-dos-anjos-fernandes-248438125/)
 * [Medium](https://medium.com/@guilhermeanjosfernandes?p=9d1c695b6021)
+
+## Projetos
