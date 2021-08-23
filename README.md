@@ -15,3 +15,7 @@ Com mais de 18 anos de experência em TI em suporte ao cliente, inclusive em amb
 * [Medium](https://medium.com/@guilhermeanjosfernandes?p=9d1c695b6021)
 
 ## Projetos
+
+Segue abaixo os projetos desenvolvidos:
+
+
