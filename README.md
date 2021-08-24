@@ -9,7 +9,9 @@
 # Guilherme dos Anjos Fernandes
 <sub>Estudante de Python e Data Science</sub>
 
-Com mais de 18 anos de experência em TI em suporte ao cliente, inclusive em ambiente offshore, atualmente trabahando com monitoramento e operação de sistemas de coleta de dados meteorológicos e oceanográficos, resolvi aprimorar minhas *skills*, iniciando os estudos em Python e Data Science.
+Com mais de 18 anos de experência em TI em suporte ao cliente, inclusive em ambiente offshore, atualmente trabahando com monitoramento e operação de sistemas de coleta de dados meteorológicos e oceanográficos, desenvolvendo minhas habilidades através dos estudos em Python e Data Science.
+
+Aberto a colaboração e projetos.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/guilherme-dos-anjos-fernandes-248438125/)
