@@ -16,7 +16,7 @@ Com mais de 18 anos de experência em TI em suporte ao cliente, inclusive em amb
 * [Medium](https://medium.com/@guilhermeanjosfernandes?p=9d1c695b6021)
 
 ## Projetos
-
+______________________________________________
 Segue abaixo os projetos desenvolvidos:
 
 Analisando os dados do Airbnb - Vancouver: https://bit.ly/3mraH0h
